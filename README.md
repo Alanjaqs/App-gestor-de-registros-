@@ -2,7 +2,7 @@
 Aplicación realizada en C# .Net Framework.
 
 La temática es de una saga famosa de videojuegos.
-Funcionalidades:
+# Funcionalidades:
 Agregar y modificar registro
 Eliminar de manera permanente y temporal los registros
 Papelera de reciclaje en el caso de eliminación temporal
