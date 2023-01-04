@@ -1,8 +1,8 @@
 # App Gestor de Registros
-Video de la App funcionando: https://www.linkedin.com/feed/update/urn:li:activity:6995777273027006464/ <br>
-Aplicación realizada en C# .Net Framework con SQL Server para BD
+Aplicación realizada en C# .Net Framework con SQL Server para BD <br>
+La temática es de una saga famosa de videojuegos. <br>
+Video de la App funcionando: https://www.linkedin.com/feed/update/urn:li:activity:6995777273027006464/ 
 
-La temática es de una saga famosa de videojuegos.
 # Funcionalidades:
 Agregar y modificar registro <br>
 Eliminar de manera permanente y temporal los registros <br>
