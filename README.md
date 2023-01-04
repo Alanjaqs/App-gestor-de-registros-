@@ -1,4 +1,5 @@
 # App Gestor de Registros
+Video de la App funcionando: https://www.linkedin.com/feed/update/urn:li:activity:6995777273027006464/
 Aplicación realizada en C# .Net Framework con SQL Server para BD
 
 La temática es de una saga famosa de videojuegos.
